@@ -7,15 +7,15 @@ Base &
 Navbar HTML
 Base CSS
 Navbar, Container, FLex
-Show caseArea & Grid
+Show case Area & Grid
 Card & Form CSS
-ButtonStyles
+Button Styles
 Skwed Area
 Utility Classes-Margin & Padding
 CLI Section & Grid CLI Section & Grid Col & Row Span
 Cloud Section
 Background &Button Utility Classes
-Text sIZE
+Text Size
 Languages Section
 Footer
 Media Queries & Responsiveness
